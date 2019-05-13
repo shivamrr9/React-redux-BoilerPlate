@@ -1,6 +1,5 @@
 
 import { Constants } from '../constants';
-import { bindActionCreators } from '../../../../../../Library/Caches/typescript/3.3/node_modules/redux';
 
 const initialState = {
     test:5,
